@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+
+
+// this si a aadsd
+int main(int argc, char const *argv[]) {
+  /* cod
+  asdasdsa
+  e */
+
+
+
+
+  int i = 0;  //         comment
+
+
+
+
+  return 0;
+}
