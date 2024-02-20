@@ -1,27 +1,8 @@
 #include <stdio.h>
-
-
-
-
-
-
-
-
 // fsdfsdfds
 int main(int argc, char const *argv[]) {
-  /* cod
-  asdasdsa
-  e */
-
-
-
-
-      int i = 10, j = 30;  //         comment
+  
+      int i = 10, j = 30;  
   int c = j /= 2;
-
-
-
-
   return 0;
 }
-

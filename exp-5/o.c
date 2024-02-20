@@ -1,0 +1,1 @@
+ < s t d i o . h > i n t m a i n ( i n t a r g c , c h a r c o n s t * a r g v [ ] ) { i n t i = 1 0 , j = 3 0 ; i n t c = j / = 2 ; r e t u r n 0 ; }

@@ -51,12 +51,10 @@ int main() {
         fputc(currentChar, output_file);
         fputc(nextChar, output_file);
       }
-    } else if (!isspace(currentChar) || isspace(nextChar)) {
+    } else {
       // write character to output if not in comment and not whitespace
       fputc(currentChar, output_file);
     }
-
-    printf("{curr: %c, next: %c}\n", currentChar, nextChar);
   }
 
   fclose(input_file);

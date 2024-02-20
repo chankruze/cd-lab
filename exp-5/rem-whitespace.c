@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  FILE *inputFile = fopen("input.c", "r");
+  FILE *inputFile = fopen("out.c", "r");
   FILE *outputFile = fopen("output.c", "w");
   if (inputFile == NULL || outputFile == NULL) {
     printf("Unable to open the file.\n");

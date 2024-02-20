@@ -1,0 +1,1 @@
+#include<stdio.h>intmain(intargc,charconst*argv[]){inti=10,j=30;intc=j/=2;return0;}
